@@ -1,0 +1,16 @@
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\bin\Debug\netstandard2.0\DiplomProject1.deps.json
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\bin\Debug\netstandard2.0\DiplomProject1.dll
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\bin\Debug\netstandard2.0\ref\DiplomProject1.dll
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\bin\Debug\netstandard2.0\DiplomProject1.pdb
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\obj\Debug\netstandard2.0\DiplomProject1.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\obj\Debug\netstandard2.0\DiplomProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\obj\Debug\netstandard2.0\DiplomProject1.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\obj\Debug\netstandard2.0\DiplomProject1.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\obj\Debug\netstandard2.0\DiplomProject1.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\obj\Debug\netstandard2.0\DiplomProject1.dll
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\obj\Debug\netstandard2.0\ref\DiplomProject1.dll
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\obj\Debug\netstandard2.0\DiplomProject1.pdb
+C:\Users\Leonardo\source\repos\DiplomProject1\DiplomProject1\DiplomProject1\obj\Debug\netstandard2.0\Page1.xaml.g.cs
